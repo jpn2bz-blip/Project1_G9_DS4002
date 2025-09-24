@@ -10,7 +10,9 @@ The data used for this project is not our own and belongs entirely to the artist
 ## Data Dictionary
 
 Title --> Name of the song
+
 Artist --> Name of the artist (Amy Winehouse, Taylor Swift, Sabrina Carpenter)
+
 Lyrics --> String of words of all the lyrics from that song, as pulled from Spotify
 
 The data is located in 3 distinct CSV files called:
