@@ -16,6 +16,6 @@ Artist --> Name of the artist (Amy Winehouse, Taylor Swift, Sabrina Carpenter)
 Lyrics --> String of words of all the lyrics from that song, as pulled from Spotify
 
 The data is located in 3 distinct CSV files called:
-  black_to_black_lyrics.csv
-  reputation_lyrics.csv
-  sabrina_lyrics.csv
+- black_to_black_lyrics.csv
+- reputation_lyrics.csv
+- sabrina_lyrics.csv
