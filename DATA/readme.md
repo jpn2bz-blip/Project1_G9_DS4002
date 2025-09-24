@@ -3,15 +3,15 @@
 	score that those lyrics belong to that artist. We used the PyCharm package lyricsgenius and its API function to collect the lyrics. To accomplish this goal, we 
 	collected 3 albums' worth of lyrics from 3 different artists. The artists we chose were Amy Winehouse, Taylor Swift, and Sabrina Carpenter. 
 
-Provenance
+## Provenance
 	The data for this project was pulled from Spotify using lyricsgenius and the API function Spotipy. The lyrics and album names are the same as the original 
 	creation from the artist. We have not changed any of the spelling or wording used, and all information is reflected as it can be found on Spotify. 
 
-License
+## License
 	The data used for this project is not our own and belongs entirely to the artist or owner. The lyrics, album, and artist have not been altered after 
 	downloading from Spotify. 
 
-Data Dictionary
+## Data Dictionary
 
 Title --> Name of the song
 Artist --> Name of the artist (Amy Winehouse, Taylor Swift, Sabrina Carpenter)
