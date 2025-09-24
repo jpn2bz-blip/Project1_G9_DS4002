@@ -42,4 +42,19 @@ Platform: The code is platform-agnostic and should run on Windows, macOS, or Lin
 
 
 # Reproducibility
+1. Clone the repository:
+```
+git clone <repository-url>
+```
+2. Install dependencies:
+Navigate to the project directory and install the required packages.
+```
+pip install lyricsgenius spotipy pandas scikit-learn numpy matplotlib seaborn
+```
+3. Run the scripts:
+Execute the scripts in the SCRIPTS folder in numerical order. The first script collects the data (if not already present), and the second script performs the analysis and generates the model and plots.
+
+4. View the output:
+All generated plots and model results will be saved in the OUTPUT folder.
+
 
