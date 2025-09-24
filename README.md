@@ -1,6 +1,7 @@
-# Project1_G9_DS4002
-Project 1 files for group 9 in DS 4002-01
+# Lyric Matching Model
+Group 9: Mackenzie Craig, Jackson Haiz, Austin Chun
 
+Course: DS 4002 Section 001
 ## Contents of Repository
 
 # Software and Platform
