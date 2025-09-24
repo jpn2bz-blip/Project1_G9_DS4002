@@ -25,6 +25,7 @@ matplotlib / seaborn
 Platform: The code is platform-agnostic and should run on Windows, macOS, or Linux.
 
 # Documentation
+```
 ├── README.md
 ├── LICENSE.md
 ├── DATA/
@@ -37,6 +38,7 @@ Platform: The code is platform-agnostic and should run on Windows, macOS, or Lin
 └── OUTPUT/
 ├── total_word_counts.png
 └── frequent_words_amy.png
+```
 
 
 # Reproducibility
