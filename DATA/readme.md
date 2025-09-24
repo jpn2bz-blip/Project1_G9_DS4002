@@ -19,3 +19,5 @@ The data is located in 3 distinct CSV files called:
 - black_to_black_lyrics.csv
 - reputation_lyrics.csv
 - sabrina_lyrics.csv
+
+*see Readme plots for further information*
