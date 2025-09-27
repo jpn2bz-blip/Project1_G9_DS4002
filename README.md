@@ -29,12 +29,15 @@ Platform: The code is platform-agnostic and should run on Windows, macOS, or Lin
 ├── README.md
 ├── LICENSE.md
 ├── DATA/
-│   ├── black_to_black_lyrics.csv
-│   ├── reputation_lyrics.csv
-│   └── sabrina_lyrics.csv
+│   ├── Man's_Best_Friend_lyrics.csv
+│   ├── Readme Plots.pdf
+│   ├── back_to_black_lyrics.csv
+│   ├── readme.md
+│   └── reputation_lyrics.csv
 ├── SCRIPTS/
-│   ├── 01_data_collection.py
-│   └── 02_modeling_and_analysis.py
+│   ├── EDA_SCRIPT.ipynb
+│   ├── Lyric_Collector (1).py
+│   └── MI3_Analysis.ipynb
 └── OUTPUT/
 ├── total_word_counts.png
 └── frequent_words_amy.png
